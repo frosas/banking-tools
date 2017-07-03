@@ -5,3 +5,9 @@
 ```bash
 $ yarn
 ```
+
+## Development
+
+```bash
+$ eslint .
+```

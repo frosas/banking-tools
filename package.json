@@ -1,4 +1,7 @@
 {
   "name": "banking-tools",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "eslint": "^4.1.1"
+  }
 }
