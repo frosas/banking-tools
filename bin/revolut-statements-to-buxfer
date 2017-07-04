@@ -1,0 +1,7 @@
+#!/usr/bin/env node
+
+const readline = require('readline');
+
+readline.createInterface({input: process.stdin}).on('line', line => {
+  process.stdout.write(`${line.replace(/(\d),(\d)/g, '$1$2')}\n`);
+});
