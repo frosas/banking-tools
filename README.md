@@ -1,5 +1,7 @@
 # Banking Tools
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/frosas/banking-tools.svg)](https://greenkeeper.io/)
+
 ## Setup
 
 ```bash
