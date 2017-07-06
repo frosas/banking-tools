@@ -3,7 +3,7 @@
 ## Setup
 
 ```bash
-$ yarn
+$ npm i
 ```
 
 ## Usage
