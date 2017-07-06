@@ -21,5 +21,5 @@ Upload to Buxfer as CSV.
 ## Development
 
 ```bash
-$ eslint .
+$ npm test
 ```
